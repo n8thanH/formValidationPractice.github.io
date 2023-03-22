@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #034078;
+    color: #ECEBF3;
+}
+
+#theFather {
+    margin-left: 5vh;
+    margin-right: 5vh;
+}
+
+h1 {
+    margin-top: 2vw;
+}
+
+fieldset {
+    background-color: #ECEBF3;
+    border: none;
+    color: #034078;
+    padding: 2vw;
+    font-size: 1.5vw;
+    margin-top: 2vw;
+    border-radius: 10px;
+}
+
+#subButton {
+    padding: 2vh;
+    background-color: #ECEBF3;
+    color: #034078;
+    border-radius: 10px;
+    margin-left: 48%;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+input {
+    padding: .5vh;
+}
